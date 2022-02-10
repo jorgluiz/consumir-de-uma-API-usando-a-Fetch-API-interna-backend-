@@ -11,4 +11,4 @@ backend
 frontend
 - extensão live server
 
-<a href="https://www.youtube.com/watch?v=mmCuNbChZ9I">Créditos</a>
+<a href="https://www.youtube.com/watch?v=mmCuNbChZ9I">Créditos:</a>
